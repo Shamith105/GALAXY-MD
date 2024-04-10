@@ -12,7 +12,7 @@ MEGAMIND-MD WHATSAPP USER BOT CREATED BY MR SHAMITH OFC 💀🔥
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
 <a href="https://github.com/shamith105">
-    <img src="https://telegra.ph/file/5e0dfd6423c50f270af2a.jpg" width="700px">
+    <img src="https://telegra.ph/file/cd35fe78f746925fa58a3.jpg" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
