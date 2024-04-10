@@ -71,9 +71,9 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("*MASTER-MD is Alive Now ✅💀*") ; return};
+        if(!superUser) { repondre("*GALAXY-MD is Alive Now ✅💀*") ; return};
 
-      await   repondre("*MASTER-MD is Alive Now ✅💀*");
+      await   repondre("*GALAXY-MD is Alive Now ✅💀*");
          repondre(" *Type .menu to Commands list 👨‍💻💀*")
      }
  } else {
