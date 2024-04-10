@@ -107,17 +107,17 @@ zokou({ nomCom: "sahan", categorie: "Creator" }, async (dest, zk, commandeOption
   await zk.sendMessage(auteurMessage,{text : `*Leader Link https://wa.me/94720797915?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
 
 });
-zokou({ nomCom: "hemal", categorie: "Creator" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "shamith", categorie: "Creator" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("💀 *MASTER-MD Bot Co leader is Mr Hemal Veenath. 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From Galewela💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 21 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By MASTER MIND..👨‍💻* ")
-  await zk.sendMessage(auteurMessage,{text : `*Co Leader Link https://wa.me/+94719552053?text=Hey_Co_Leader_👨‍💻✅*`},{quoted :ms})
+  repondre("💀 *GALAXY-MD Bot  leader is Mr shamith eduwara. 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From mawanella💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 14 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By MASTER MIND..👨‍💻* ")
+  await zk.sendMessage(auteurMessage,{text : `*Leader Link https://wa.me/+94761634482?text=Hey_Leader_👨‍💻✅*`},{quoted :ms})
 
 });
 zokou({ nomCom: "kanishka", categorie: "Creator" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("💀 *MASTER-MD Bot Bug Tester is Kanishka De Silva 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From Ambalangoda💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By MASTER MIND..👨‍💻* ")
+  repondre("💀 *MASTER-MD Bot Bug Tester is Kanishka De Silva 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From Ambalangoda💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By GALAXY MD..👨‍💻* ")
   await zk.sendMessage(auteurMessage,{text : `*Bug Tester Link https://wa.me/+94722477361?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
 
 });
