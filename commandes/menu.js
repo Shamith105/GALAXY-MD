@@ -31,7 +31,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╒═══💀𝗠𝗔𝗦𝗧𝗘𝗥-𝗠𝗗💀═══════⫸
+╒═══💀𝗚𝗔𝗟𝗔𝗫𝗬-𝗠𝗗💀═══════⫸
 │✅ *Prefix* : ${s.PREFIXE}
 │✅ *User* : ${s.OWNER_NAME}
 │✅ *Mode* : ${mode}
@@ -40,14 +40,14 @@ const date = moment().format('DD/MM/YYYY');
 │✅ *Time* : ${temps} 
 │✅ *Ram* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │✅ *Platform* : ${os.platform()}
-│✅ *Developer* : Mr Sahan Ofc
+│✅ *Developer* : Mr Shamith Ofc
 │✅ *Version* : V1.0
-│✅ *Github* : maduwa2006
-╘═══💀𝗠𝗔𝗦𝗧𝗘𝗥_𝗠𝗜𝗡𝗗💀═══⫸◆ \n\n`;
+│✅ *Github* : shamith105
+╘═══💀𝗚𝗔𝗟𝗔𝗫𝗬_𝗠𝗗💀═══⫸◆ \n\n`;
 
   let menuMsg=`  
 
-*MASTER-MD COMMANDS :*
+*GALAXY-MD COMMANDS :*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 `;
 
@@ -63,9 +63,9 @@ const date = moment().format('DD/MM/YYYY');
 
     menuMsg += `
 ◇            ◇
-*————— MASTER MIND —————*
+*————— GALAXY MD —————*
 
-  *💀MASTER-MD WhatsApp User Bot💀*                                         
+  *💀GALAXY-MD WhatsApp User Bot💀*                                         
 *╰═════════════⊷*
 `;
 
