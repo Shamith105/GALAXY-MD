@@ -103,14 +103,14 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
 zokou({ nomCom: "sahan", categorie: "Creator" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("💀 *GALAXY-MD BOT CREATED BY SHAMITH 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀FROM MAWANELLA💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 14 YEARS OLD 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By MASTER MIND..👨‍💻* ")
+  repondre("💀 *GALAXY-MD BOT CREATED BY SHAMITH 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀FROM MAWANELLA💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 14 YEARS OLD 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By GALAXY MD..👨‍💻* ")
   await zk.sendMessage(auteurMessage,{text : `*Leader Link https://wa.me/94761634482?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
 
 });
 zokou({ nomCom: "shamith", categorie: "Creator" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("💀 *GALAXY-MD Bot  leader is Mr shamith eduwara. 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From mawanella💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 14 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By MASTER MIND..👨‍💻* ")
+  repondre("💀 *GALAXY-MD Bot  leader is Mr shamith eduwara. 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From mawanella💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 14 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By GALAXY MD..👨‍💻* ")
   await zk.sendMessage(auteurMessage,{text : `*Leader Link https://wa.me/+94761634482?text=Hey_Leader_👨‍💻✅*`},{quoted :ms})
 
 });
@@ -124,7 +124,7 @@ zokou({ nomCom: "kanishka", categorie: "Creator" }, async (dest, zk, commandeOpt
 zokou({ nomCom: "kavi", categorie: "Creator" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("💀 *GALAXY-MD Tester is Mr Cyber kavi 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From Sri Lanka💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By MASTER MIND..👨‍💻* ")
+  repondre("💀 *GALAXY-MD Tester is Mr Cyber kavi 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From Sri Lanka💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By GALAXY MD..👨‍💻* ")
   await zk.sendMessage(auteurMessage,{text : `*Tester Link https://wa.me/+94743579892?text=Hey_Tester_👨‍💻✅*`},{quoted :ms})
 
 })
