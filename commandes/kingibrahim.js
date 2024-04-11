@@ -3,10 +3,10 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "sahan", reaction: "📷", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = 'MASTERMIND-HD-PHOTO \n\n ' + "*ⁱᵇʳᵃʰⁱᵐ-ᵗᵉᶜʰ.*";
-    let d = ' #MASTER'S';
+    let z = 'GALAXYMD-HD-PHOTO \n\n ' + "*ⁱᵇʳᵃʰⁱᵐ-ᵗᵉᶜʰ.*";
+    let d = ' #GALAXY'S';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/3b5e3a9b55b5ec0df4bf8.jpg';
+    var img = 'https://telegra.ph/file/479b0423f97190a279200.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
