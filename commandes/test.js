@@ -3,10 +3,10 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "repo", reaction: "✅", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
-    let z = '𝗙𝗢𝗥𝗞 𝗔𝗡𝗗 𝗗𝗘𝗣𝗟𝗢𝗬 𝗠𝗬 𝗠𝗔𝗦𝗧𝗘𝗥-𝗠𝗗 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧  \n\n ' + "𝗚𝗜𝗧𝗛𝗨𝗕 𝗟𝗜𝗡𝗞*";
-    let d = ' https://github.com/maduwa2006/MASTER-MD/tree/main';
+    let z = '𝗙𝗢𝗥𝗞 𝗔𝗡𝗗 𝗗𝗘𝗣𝗟𝗢𝗬 𝗠𝗬 𝗚𝗔𝗟𝗔𝗫𝗬-𝗠𝗗 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧  \n\n ' + "𝗚𝗜𝗧𝗛𝗨𝗕 𝗟𝗜𝗡𝗞*";
+    let d = ' https://github.com/shamith105/GALAXY-MD/tree/main';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/3b5e3a9b55b5ec0df4bf8.jpg';
+    var img = 'https://telegra.ph/file/479b0423f97190a279200.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
@@ -19,9 +19,9 @@ console.log("mon test");
 
 async function  execute  (origineMessage,zok) {
   console.log("Commande saisie !!!s")
-   let z ='Salut je m\'appelle *MASTER-MD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
-      let d =' developpé par *Sahan Maduwantha*'
+   let z ='Salut je m\'appelle *GALAXY-MD* \n\n '+'je suis un bot Whatsapp Multi-appareil '
+      let d =' developpé par *Shamith Eduwara*'
       let varmess=z+d
-      var img='https://telegra.ph/file/13d63c21c1a665bfd8324.jpg'
+      var img='https://telegra.ph/file/479b0423f97190a279200.jpg'
 await  zok.sendMessage(origineMessage,  { image:{url:img},caption:varmess});
 }  */ 
