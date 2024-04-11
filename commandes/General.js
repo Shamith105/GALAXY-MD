@@ -103,8 +103,8 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
 zokou({ nomCom: "sahan", categorie: "Creator" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("💀 *GALAXY-MD BOT CREATED BY SHAMITH 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀FROM MAWANELLA💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 14 YEARS OLD 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By GALAXY MD..👨‍💻* ")
-  await zk.sendMessage(auteurMessage,{text : `*Leader Link https://wa.me/94761634482?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
+  repondre("💀 *GALAXY-MD BOT CREATED BY SAHAN 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀FROM GALEWELA💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 YEARS OLD 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By GALAXY MD..👨‍💻* ")
+  await zk.sendMessage(auteurMessage,{text : `*Leader Link https://wa.me/94720797915?text=Hey_creator_👨‍💻✅*`},{quoted :ms})
 
 });
 zokou({ nomCom: "shamith", categorie: "Creator" }, async (dest, zk, commandeOptions) => {
@@ -118,7 +118,7 @@ zokou({ nomCom: "kanishka", categorie: "Creator" }, async (dest, zk, commandeOpt
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("💀 *GALAXY-MD Bot Bug Tester is Kanishka De Silva 💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀From Ambalangoda💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n *💀 17 Years Old💀* \n ▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n  *© Created By GALAXY MD..👨‍💻* ")
-  await zk.sendMessage(auteurMessage,{text : `*Bug Tester Link https://wa.me/+94722477361?text=Hey_Owner_👨‍💻✅*`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : `*Bug Tester Link https://wa.me/+94722477361?text=Hey_Bug Tester_👨‍💻✅*`},{quoted :ms})
 
 });
 zokou({ nomCom: "kavi", categorie: "Creator" }, async (dest, zk, commandeOptions) => {
