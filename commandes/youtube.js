@@ -15,7 +15,7 @@ zokou({
   const { ms, repondre, arg } = commandeOptions;
      
   if (!arg[0]) {
-    repondre("wich song do you want.");
+    repondre("which song do you want.");
     return;
   }
 
@@ -36,7 +36,7 @@ zokou({
 *Url :* _${videos[0].url}_
 
 
-_*MASTER-MD SONG DOWNLOADER CREATED BY MR SAHAN OFC...*_\n\n`
+_*GALAXY-MD SONG DOWNLOADER CREATED BY MR SHAMITH OFC...*_\n\n`
        }
 
       
@@ -106,7 +106,7 @@ zokou({
         caption: `*Video name :* _${Element.title}_
 *Time :* _${Element.timestamp}_
 *Url :* _${Element.url}_
-_*MASTER-MD VIDEO DOWNLOADER CREATED BY MR SAHAN OFC...*_\n\n`
+_*GALAXY-MD VIDEO DOWNLOADER CREATED BY MR SHAMITH OFC...*_\n\n`
       };
 
       zk.sendMessage(origineMessage, InfoMess, { quoted: ms });
@@ -127,7 +127,7 @@ _*MASTER-MD VIDEO DOWNLOADER CREATED BY MR SAHAN OFC...*_\n\n`
 
       fileStream.on('finish', () => {
         // Envoi du fichier vidéo en utilisant l'URL du fichier local
-        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*MASTER-MD BOT CREATED BY MR SAHAN OFC..!*", gifPlayback: false }, { quoted: ms });
+        zk.sendMessage(origineMessage, { video: { url :"./video.mp4"} , caption: "*GALAXY-MD BOT CREATED BY MR SHAMITH OFC..!*", gifPlayback: false }, { quoted: ms });
       });
 
       fileStream.on('error', (error) => {
