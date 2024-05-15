@@ -34,11 +34,11 @@
       
 <div align="center">
    
-<a href="https://galaxy-v1-session-c6a0e3471a79.herokuapp.com/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="https://master-v1-session-c6a0e3471a79.herokuapp.com/"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://galaxy-v1-session-c6a0e3471a79.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://master-v1-session-c6a0e3471a79.herokuapp.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -68,5 +68,7 @@
 2: `Hemal Brother`
 
 3: `Kavi Brother`
+
+4: [`And thanks to Master Mind..Its Me😂`](https://wa.me/DZGUF77BZW3EP1)
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
