@@ -69,6 +69,6 @@
 
 3: `Kavi Brother`
 
-4: [`And thanks to Master Mind..Its Me😂`](https://wa.me/DZGUF77BZW3EP1)
+4: [`And thanks to Master Mind..Its Me😂`](https://wa.me/message/DZGUF77BZW3EP1)
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
