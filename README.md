@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
 <a href="https://github.com/Shamith105">
-    <img src="https://telegra.ph/file/84897cf26a57081ce3e1e.jpg" width="700px">
+    <img src="https://telegra.ph/file/de0d9056155b98a12c7d7.jpg" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
@@ -69,6 +69,6 @@
 
 3: `Kavi Brother`
 
-4: [`And thanks to Master Mind..Its Me😂`](https://wa.me/message/DZGUF77BZW3EP1)
+4: [`And thanks Specially to Master Mind..(Best friend ever)🛸🥺`](https://wa.me/message/DZGUF77BZW3EP1)
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
