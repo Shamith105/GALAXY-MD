@@ -5,7 +5,7 @@
 
 
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=GALAXY+MD;CREATED+BY+CYBER_INDU;Shamith+Eduwara" alt="Typing SVG" /></a>   
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=GALAXY+MD;CREATED+BY+PANDA_MODZ;Shamith" alt="Typing SVG" /></a>   
 </p> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -58,17 +58,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center"> 
-</h2>
 
-`Thanks To,`
-
-1: `Kanishka Brother`
-
-2: `Hemal Brother`
-
-3: `Kavi Brother`
-
-4: [`And thanks Specially to Master Mind..(Best friend ever)🛸🥺`](https://wa.me/message/DZGUF77BZW3EP1)
 
 ***`WARNING` : `DON'T MODIFY THIS BOT FIRST INFORM THE OWNER`***
